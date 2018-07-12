@@ -1,5 +1,7 @@
 # Simple Calculator with Travis CI
 
+[![Build Status](https://travis-ci.org/marciohariki/python-travis-cli-test.svg?branch=master)](https://travis-ci.org/marciohariki/python-travis-cli-test)
+
 ### Requirements
 - Python 3.5+
 - Pip
